@@ -5,3 +5,4 @@
 1. Chapter 1: Into the Algorithm World
 <br>1.1: Fibonacci number
 <br>1.2: DPA(Dynamic programming Algorithm) version of Fibonacci number
+<br>1.3: Factorial sequence calculate
