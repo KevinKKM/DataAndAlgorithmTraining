@@ -1,7 +1,7 @@
 # Bubble Sort
 
 How to use:
-<br>    `python ch3_1_bubble_sort.py`
+<br>    `python bubble_sort.py`
 
 Techniques we need: BigO
 
