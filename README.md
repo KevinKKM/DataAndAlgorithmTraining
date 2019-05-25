@@ -6,3 +6,6 @@
 <br>1.1: Fibonacci number
 <br>1.2: DPA(Dynamic programming Algorithm) version of Fibonacci number
 <br>1.3: Factorial sequence calculate
+2. Chapter 2: Data Type
+3. Chapter 3: Sorting
+<br>3.1 Bubble Sort
